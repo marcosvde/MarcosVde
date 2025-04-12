@@ -54,7 +54,3 @@
 ### ✨ Frase que me guia
 
 > “Transformar dados em decisões é transformar conhecimento em poder.”
-
----
-
-Se quiser, posso te ajudar a organizar os repositórios também ou criar um primeiro projeto de Data Science com visual elegante. Quer? 💡
