@@ -2,7 +2,7 @@
 <h3 align="center">Estudante de Data Science | Python | Web | Machine Learning</h3>
 
 <p align="center">
-  Analista de Suporte de TI com experiência em Field Service, suporte VIP e atendimento ao usuário. Atualmente, estudando Data Science com foco em Python e bibliotecas como Pandas, NumPy, Matplotlib e Scikit-learn. Também tenho conhecimento em desenvolvimento web (HTML, CSS, JavaScript). Apaixonado por dados e tecnologia, estou sempre buscando transformar desafios em soluções inteligentes.
+Atualmente, estudando Data Science com foco em Python e bibliotecas como Pandas, NumPy, Matplotlib e Scikit-learn. Também tenho conhecimento em desenvolvimento web (HTML, CSS, JavaScript). Apaixonado por dados e tecnologia, estou sempre buscando transformar desafios em soluções inteligentes.
 </p>
 
 ---
