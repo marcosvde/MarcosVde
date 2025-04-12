@@ -8,7 +8,7 @@ Também tenho experiência com **HTML**, **CSS** e **JavaScript** no desenvolvim
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Matplotlib" height="30" width="40" src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg">
+  <img align="center" alt="Matplotlib" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
   <img align="center" alt="Scikit-learn" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg">
 </div>
 
