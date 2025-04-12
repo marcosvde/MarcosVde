@@ -1,7 +1,13 @@
-## 👋 Oi! Eu sou o Marcos Vinicius, entusiasta de Data Science e tecnologia!
+<h1 align="center">👨‍💻 Marcos Vinícius</h1>
+<h3 align="center">Estudante de Data Science | Python | Web | Machine Learning</h3>
 
-Sou apaixonado por dados e inovação. Atualmente estudo **Data Science**, focando em **Python** e bibliotecas como **Pandas**, **NumPy**, **Matplotlib**, **Scikit-learn** e muito mais.  
-Também tenho experiência com **HTML**, **CSS** e **JavaScript** no desenvolvimento web. Sempre buscando transformar dados em soluções impactantes.
+<p align="center">
+  Analista de Suporte de TI com experiência em Field Service, suporte VIP e atendimento ao usuário. Atualmente, estudando Data Science com foco em Python e bibliotecas como Pandas, NumPy, Matplotlib e Scikit-learn. Também tenho conhecimento em desenvolvimento web (HTML, CSS, JavaScript). Apaixonado por dados e tecnologia, estou sempre buscando transformar desafios em soluções inteligentes.
+</p>
+
+---
+
+### 🚀 Habilidades Técnicas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -12,22 +18,43 @@ Também tenho experiência com **HTML**, **CSS** e **JavaScript** no desenvolvim
   <img align="center" alt="Scikit-learn" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg">
 </div>
 
-##
+---
 
-<div> 
-  <a href="https://github.com/marcosvde" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcosvde&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvde&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+### 🌐 Redes e Contato
+
+<div align="center">
   <a href="https://www.linkedin.com/in/marcosviniciustech/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/marcosvde" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="mailto:marcosvdesouza5@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://instagram.com/socramvde" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://discord.com/users/Arcanjows#6405" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Arcanjows%236405-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="#" title="Discord: Arcanjows#6405">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </div>
+
+---
+
+### ✨ Frase que me guia
+
+> “Transformar dados em decisões é transformar conhecimento em poder.”
+
+---
+
+Se quiser, posso te ajudar a organizar os repositórios também ou criar um primeiro projeto de Data Science com visual elegante. Quer? 💡
